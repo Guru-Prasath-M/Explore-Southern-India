@@ -29,7 +29,7 @@ Authentication: JWT, OAuth
 
 ## 📌 Installation
 
-git clone https://github.com/varun-it21/southern-india-explorer.git
+git clone (https://github.com/Guru-Prasath-M/Explore-Southern-India)
 
 cd southern-india-explorer
 
@@ -41,7 +41,7 @@ npm start
 
 For inquiries or suggestions, reach out at:
 
-📧 Email: varunrohith626@gmail.com
+📧 Email: guruprasath908018@gmail.com
 
 Happy Exploring! 🌏✨
 
